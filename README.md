@@ -36,7 +36,7 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. Just added this, aha?!
+1. ❗ Opened issue [#89](https://github.com/joplin/plugin-templates/issues/89) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
 <!--END_SECTION:activity-->
 
 ---
