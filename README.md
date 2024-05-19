@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm Nikhil. I'm pursuing my MS in CS from [Georgia Tech](https://github.com/gatech). 
 
-In my day-job, I work as lighting engineer with expertise in lighting components and controls. All fields are converging towards Tech and the same is happening in the lighting industry as well, I hope to contribute in the near future to bridge this gap.
+In my day-job, I work as lighting engineer with expertise in lighting components and controls. All fields (even lighting) are converging towards Tech and I hope to contribute in the near future to bridge this gap.
 
 My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my inductive priors on these topics as much as possible. 🙃
 
