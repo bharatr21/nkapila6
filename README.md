@@ -22,7 +22,7 @@ In my day-job, I work as lighting engineer with expertise in lighting components
 
 My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my inductive priors on these topics as much as possible. 🙃
 
-🌱 Completed courses: 
+🌱 Courses: 
 - ✅ Human Computer Interaction (Spring 2023)
 - ✅ Knowledge-Based AI (Summer 2023)
 - ✅ Software Development Processes (Fall 2023)
