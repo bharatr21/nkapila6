@@ -39,6 +39,10 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#89](https://github.com/joplin/plugin-templates/issues/89) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+2. 🎉 Merged PR [#3971](https://github.com/hoppscotch/hoppscotch/pull/3971) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. 🗣 Commented on [#3289](https://github.com/hoppscotch/hoppscotch/issues/3289#issuecomment-2046891587) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. 🗣 Commented on [#3931](https://github.com/hoppscotch/hoppscotch/pull/3931#issuecomment-2017809328) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#3929](https://github.com/hoppscotch/hoppscotch/pull/3929) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
