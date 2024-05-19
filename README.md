@@ -39,10 +39,10 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#89](https://github.com/joplin/plugin-templates/issues/89) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
-2. 🎉 Merged PR [#3971](https://github.com/hoppscotch/hoppscotch/pull/3971) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🗣 Commented on [#3289](https://github.com/hoppscotch/hoppscotch/issues/3289#issuecomment-2046891587) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#3931](https://github.com/hoppscotch/hoppscotch/pull/3931#issuecomment-2017809328) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🎉 Merged PR [#3929](https://github.com/hoppscotch/hoppscotch/pull/3929) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#12](https://github.com/awahlig/homebridge-casambi/issues/12#issuecomment-2002313385) in [awahlig/homebridge-casambi](https://github.com/awahlig/homebridge-casambi)
+3. 🔒 Closed issue [#73](https://github.com/dstark5/Openlib/issues/73) in [dstark5/Openlib](https://github.com/dstark5/Openlib)
+4. 🗣 Commented on [#73](https://github.com/dstark5/Openlib/issues/73#issuecomment-1966589382) in [dstark5/Openlib](https://github.com/dstark5/Openlib)
+5. ❗ Opened issue [#73](https://github.com/dstark5/Openlib/issues/73) in [dstark5/Openlib](https://github.com/dstark5/Openlib)
 <!--END_SECTION:activity-->
 
 ---
