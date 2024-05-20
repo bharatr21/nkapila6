@@ -22,6 +22,10 @@ In my day-job, I work as lighting engineer with expertise in lighting components
 
 My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine learning and all things Bayesian. In my free time, I try to update my *inductive priors* on these topics as much as possible. 🙃
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nkapila6&label=Profile%20Views&color=12&icon=0&pretty=false" />
+</a>
+
 🐛 Courses taken: 
 - ✅ Human Computer Interaction (Spring 2023)
 - ✅ Knowledge-Based AI (Summer 2023)
