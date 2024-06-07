@@ -40,11 +40,11 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/CodersHQ-AI-ML-Community/ai-confluence/pull/10) in [CodersHQ-AI-ML-Community/ai-confluence](https://github.com/CodersHQ-AI-ML-Community/ai-confluence)
-2. 🗣 Commented on [#12](https://github.com/awahlig/homebridge-casambi/issues/12#issuecomment-2133521198) in [awahlig/homebridge-casambi](https://github.com/awahlig/homebridge-casambi)
-3. 🗣 Commented on [#12](https://github.com/awahlig/homebridge-casambi/issues/12#issuecomment-2133133930) in [awahlig/homebridge-casambi](https://github.com/awahlig/homebridge-casambi)
-4. 🗣 Commented on [#12](https://github.com/awahlig/homebridge-casambi/issues/12#issuecomment-2119246275) in [awahlig/homebridge-casambi](https://github.com/awahlig/homebridge-casambi)
-5. ❗ Opened issue [#89](https://github.com/joplin/plugin-templates/issues/89) in [joplin/plugin-templates](https://github.com/joplin/plugin-templates)
+1. 🎉 Merged PR [#1](https://github.com/ShivamTB/Compass/pull/1) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
+2. 💪 Opened PR [#1](https://github.com/ShivamTB/Compass/pull/1) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
+3. 💪 Opened PR [#10](https://github.com/CodersHQ-AI-ML-Community/ai-confluence/pull/10) in [CodersHQ-AI-ML-Community/ai-confluence](https://github.com/CodersHQ-AI-ML-Community/ai-confluence)
+4. 🗣 Commented on [#12](https://github.com/awahlig/homebridge-casambi/issues/12#issuecomment-2133521198) in [awahlig/homebridge-casambi](https://github.com/awahlig/homebridge-casambi)
+5. 🗣 Commented on [#12](https://github.com/awahlig/homebridge-casambi/issues/12#issuecomment-2133133930) in [awahlig/homebridge-casambi](https://github.com/awahlig/homebridge-casambi)
 <!--END_SECTION:activity-->
 
 ---
