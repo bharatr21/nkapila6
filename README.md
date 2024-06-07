@@ -40,11 +40,11 @@ My time at Georgia Tech has gotten me deeply intrigued into mathematics, machine
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ShivamTB/Compass/pull/2) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
-2. 🎉 Merged PR [#1](https://github.com/ShivamTB/Compass/pull/1) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
-3. 💪 Opened PR [#1](https://github.com/ShivamTB/Compass/pull/1) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
-4. 💪 Opened PR [#10](https://github.com/CodersHQ-AI-ML-Community/ai-confluence/pull/10) in [CodersHQ-AI-ML-Community/ai-confluence](https://github.com/CodersHQ-AI-ML-Community/ai-confluence)
-5. 🗣 Commented on [#12](https://github.com/awahlig/homebridge-casambi/issues/12#issuecomment-2133521198) in [awahlig/homebridge-casambi](https://github.com/awahlig/homebridge-casambi)
+1. 🎉 Merged PR [#2](https://github.com/ShivamTB/Compass/pull/2) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
+2. 💪 Opened PR [#2](https://github.com/ShivamTB/Compass/pull/2) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
+3. 🎉 Merged PR [#1](https://github.com/ShivamTB/Compass/pull/1) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
+4. 💪 Opened PR [#1](https://github.com/ShivamTB/Compass/pull/1) in [ShivamTB/Compass](https://github.com/ShivamTB/Compass)
+5. 💪 Opened PR [#10](https://github.com/CodersHQ-AI-ML-Community/ai-confluence/pull/10) in [CodersHQ-AI-ML-Community/ai-confluence](https://github.com/CodersHQ-AI-ML-Community/ai-confluence)
 <!--END_SECTION:activity-->
 
 ---
